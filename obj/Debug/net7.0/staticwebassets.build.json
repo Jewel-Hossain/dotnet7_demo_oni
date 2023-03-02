@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "etVvC+wlBwYbZ9o2aZBjvSmTPvODSK4Ghy1qLiCtWVc=",
+  "Source": "dotnet7_demo_oni",
+  "BasePath": "_content/dotnet7_demo_oni",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
